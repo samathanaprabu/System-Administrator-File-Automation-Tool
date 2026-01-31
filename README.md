@@ -69,7 +69,7 @@ HOW TO USE
 ----------
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/AutoFileOrganizer.git
+   git clone https://github.com/samathanaprabu/System-Administrator-File-Automation-Tool
    cd AutoFileOrganizer
 
 2. Place files inside:
