@@ -1,49 +1,32 @@
-# AutoFileOrganizer
+# System-Administrator-File-Automation-Tool
+Python automation tool for system administrators to organize files and maintain clean directories.
 
-AutoFileOrganizer is a Python script that automatically organizes files in a folder into subfolders by type.
+🔧 System Admin Skills Highlighted
+--
+You can mention this in README or LinkedIn:
 
-## Features
-- Organizes **Images**, **Documents**, **Videos**, **Software**, **Archives**
-- Unknown file types go to an **Other** folder
-- Automatically creates subfolders based on file extensions
-- Easy to configure and extend
+Python scripting for automation
 
-## Project Structure
-AutoFileOrganizer/
-├── organize_files.py
-├── examples/sample_files
-├── docs/images
-├── tests
-├── requirements.txt
-├── LICENSE
-└── .gitignore
+File system management
 
-## Usage
-1. Clone the repository:
+Operational efficiency improvement
 
-```bash
-git clone https://github.com/yourusername/AutoFileOrganizer.git
-cd AutoFileOrganizer
+Cross-platform compatibility (Windows/Linux)
 
-##Add files to examples/sample_files folder.
+Real-world admin use case (Downloads, shared folders, servers)
 
-Run the script:
+🔥 Alternative Titles (Admin-centric)
+---
+SysAdmin File Management Automation
 
-python organize_files.py
+Python-Based System Administration Automation
 
+Automated Directory Management for SysAdmins
 
-Your files will be organized into folders by type.
+IT Operations File Organizer
 
-Supported File Types
+SysAdmin Productivity Automation Script
 
-Images: JPG, PNG, GIF, BMP, PSD, TIFF, WEBP
-
-Documents: PDF, DOCX, DOC, TXT, XLSX, PPTX, ODT, EPUB
-
-Videos: MP4, MKV, AVI, MOV, FLV, WMV, WEBM
-
-Software: EXE, MSI, APK, BAT, SH
-
-Archives: ZIP, RAR, 7Z, TAR, GZ
-
-Other unknown files go into Other folder.
+🧠 Resume-Ready Description (Short)
+--
+Developed a Python-based system administration automation tool to automatically organize files by type, improving directory management and reducing manual operational tasks.
