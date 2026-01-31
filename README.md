@@ -70,15 +70,16 @@ HOW TO USE
 
 1. Clone the repository:
    git clone https://github.com/samathanaprabu/System-Administrator-File-Automation-Tool
+   
    cd AutoFileOrganizer
 
-2. Place files inside:
+3. Place files inside:
    examples/sample_files/
 
-3. Run the script:
+4. Run the script:
    python organize_files.py
 
-4. Files will be automatically organized into folders
+5. Files will be automatically organized into folders
    based on type and extension.
 
 
